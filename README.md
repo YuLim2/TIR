@@ -7,3 +7,4 @@ ___
 <br>
 <br>
 
+- <a href="https://github.com/YuLim2/TIR/tree/master/%EC%9D%B8%EC%83%9D%EC%9D%98%20%EB%AC%B8%EC%9E%A5%EB%93%A4"> 인생의 문장들 </a>
