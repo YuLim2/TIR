@@ -13,4 +13,4 @@ ___
 
 ### Program Programming Progmmer
 
-- 06 CODE
+- <a href="https://github.com/YuLim2/TIR/tree/master/06%20CODE">06 CODE</a>
