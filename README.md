@@ -11,6 +11,8 @@ ___
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/%EC%B0%BD%EC%9D%98%EC%84%B1%EC%9D%84%20%EC%A7%80%ED%9C%98%ED%95%98%EB%9D%BC">창의성을 지휘하라</a>
 
-### Program Programming Progmmer
+### Tech
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/06%20CODE">06 CODE</a>
+
+- <a href="https://github.com/YuLim2/TIR/tree/master/Seven_Tech">Seven Tech</a>
