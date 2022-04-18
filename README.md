@@ -11,6 +11,8 @@ ___
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/%EC%B0%BD%EC%9D%98%EC%84%B1%EC%9D%84%20%EC%A7%80%ED%9C%98%ED%95%98%EB%9D%BC">창의성을 지휘하라</a>
 
+- <a href="https://github.com/YuLim2/TIR/tree/master/%EC%99%9C%20%EC%82%B4%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%EA%B0%80">왜 살아야 하는가</a>
+
 ### Tech
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/06%20CODE">06 CODE</a>
