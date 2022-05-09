@@ -13,6 +13,8 @@ ___
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/%EC%99%9C%20%EC%82%B4%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%EA%B0%80">왜 살아야 하는가</a>
 
+- <a href="https://github.com/YuLim2/TIR/tree/master/%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4">사피엔스</a>
+
 ### Tech
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/06%20CODE">06 CODE</a>
