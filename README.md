@@ -15,8 +15,12 @@ ___
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4">사피엔스</a>
 
+- <a href="https://github.com/YuLim2/TIR/tree/master/%EA%B7%B8%EB%83%A5%20%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC">그냥 하지 말라</a>
+
 ### Tech
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/06%20CODE">06 CODE</a>
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/Seven_Tech">Seven Tech</a>
+
+
