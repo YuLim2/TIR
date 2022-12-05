@@ -17,6 +17,8 @@ ___
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/%EA%B7%B8%EB%83%A5%20%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC">그냥 하지 말라</a>
 
+- <a href="https://github.com/YuLim2/TIR/tree/master/%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%202023">트렌드 코리아 2023</a>
+
 ### Tech
 
 - <a href="https://github.com/YuLim2/TIR/tree/master/06%20CODE">06 CODE</a>
